@@ -4,3 +4,6 @@
 [submodule "libs/adafruit-gfx-library/Adafruit-GFX-Library"]
 	path = libs/adafruit-gfx-library/Adafruit-GFX-Library
 	url = https://github.com/adafruit/Adafruit-GFX-Library
+[submodule "arduino-compat/arduino-pico"]
+	path = arduino-compat/arduino-pico
+	url = https://github.com/earlephilhower/arduino-pico.git
