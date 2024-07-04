@@ -10,3 +10,6 @@
 [submodule "libs/adafruit-busio/Adafruit_BusIO"]
 	path = libs/adafruit-busio/Adafruit_BusIO
 	url = https://github.com/adafruit/Adafruit_BusIO
+[submodule "libs/sdfat-adafruit-fork/SdFat"]
+	path = libs/sdfat-adafruit-fork/SdFat
+	url = https://github.com/adafruit/SdFat
